@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kayaraash
 - 💼 I'm a product designer
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning react.js
+- 💎 I’m currently learning ruby on rails.
 
 <!---
 kayaraash/kayaraash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
